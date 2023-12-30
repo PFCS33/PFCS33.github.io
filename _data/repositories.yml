@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - PFCS33
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - PFCS33/InsightGraph
+  - PFCS33/Bigdata-Visualization-Project
+  - PFCS33/cross-platform-media-manager
+  - Pythagoras-Euler/BitJumpPM-C
+  - PFCS33/GBN-UDP
+  - PFCS33/RISCV-pipeline-cpu
